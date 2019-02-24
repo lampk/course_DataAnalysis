@@ -30,19 +30,19 @@ pygmentsStyle = "vs"
 [menu]
   # Header
   [[menu.main]]
-    url = "{{site.baseurl}}/about/"
+    url = "/about/"
     name = "Giới thiệu"
     weight = 1
   [[menu.main]]
-    url = "{{site.baseurl}}/agenda/"
+    url = "/agenda/"
     name = "Chương trình"
     weight = 2
   [[menu.main]]
-    url = "{{site.baseurl}}/register/"
+    url = "/register/"
     name = "Đăng ký"
     weight = 3
   [[menu.main]]
-    url = "{{site.baseurl}}/posts/"
+    url = "/posts/"
     name = "Thông báo"
     weight = 4
 
