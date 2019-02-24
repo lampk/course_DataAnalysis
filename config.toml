@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://lampk.github.io/course_DataAnalysis"
 title = "Phân tích dữ liệu cơ bản"
 languageCode = "en-us"
 
@@ -30,19 +30,19 @@ pygmentsStyle = "vs"
 [menu]
   # Header
   [[menu.main]]
-    url = "/about/"
+    url = "{{site.baseurl}}/about/"
     name = "Giới thiệu"
     weight = 1
   [[menu.main]]
-    url = "/agenda/"
+    url = "{{site.baseurl}}/agenda/"
     name = "Chương trình"
     weight = 2
   [[menu.main]]
-    url = "/register/"
+    url = "{{site.baseurl}}/register/"
     name = "Đăng ký"
     weight = 3
   [[menu.main]]
-    url = "/posts/"
+    url = "{{site.baseurl}}/posts/"
     name = "Thông báo"
     weight = 4
 
