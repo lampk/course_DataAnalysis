@@ -1,0 +1,62 @@
+baseurl = "https://example.com/"
+title = "Phân tích dữ liệu cơ bản"
+languageCode = "en-us"
+
+# Theme to use
+theme = "simple-hugo-theme"
+
+# Pagination
+paginate = 3
+paginatePath = "page"
+
+# Google analytics
+# googleAnalytics = ""
+
+# Copyright
+copyright = "© 2019 — Phùng Khánh Lâm."
+
+# Highlighting
+pygmentsCodefences = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsoptions = "linenos=table"
+pygmentsStyle = "vs"
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Menu
+[menu]
+  # Header
+  [[menu.main]]
+    url = "/about/"
+    name = "Giới thiệu"
+    weight = 1
+  [[menu.main]]
+    url = "/agenda/"
+    name = "Chương trình"
+    weight = 2
+  [[menu.main]]
+    url = "/register/"
+    name = "Đăng ký"
+    weight = 3
+  [[menu.main]]
+    url = "/posts/"
+    name = "Thông báo"
+    weight = 4
+
+  # Footer
+  [[menu.footer]]
+    url = "mailto:lampk.github.io"
+    name = "Liên hệ"
+    weight = 3
+
+
+# Links format
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[params]
+  # Date format (default: Jan 2, 2006)
+  # datefmt  = "Jan 2, 2006"
