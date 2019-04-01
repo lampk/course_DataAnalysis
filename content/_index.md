@@ -8,11 +8,11 @@ Khoá học do Bộ môn Nhiễm ĐH Y Dược TPHCM và [Xanh Foundation](https
 
 ## Chương trình học
 
-Để xem chương trình khoá học, click vào đây.
+Để xem chương trình khoá học, [click vào đây](https://lampk.github.io/course_DataAnalysis/agenda/).
 
 ## Đăng ký
 
-Để đăng ký tham gia khoá học, click vào đây.
+Để đăng ký tham gia khoá học, [click vào đây](https://lampk.github.io/course_DataAnalysis/register/).
 
 ## Thông báo
 
