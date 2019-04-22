@@ -4,11 +4,11 @@ title: Chương trình (dự kiến)
 
 ## Thời gian
 
-Từ ngày 06/05/2019 đến 21/06/2019
+Từ ngày 06/05/2019 đến 07/06/2019
 
-## Giảng viên (dự kiến)
+## Giảng viên
 
-Phùng Khánh Lâm, BS, TS
+#### Phùng Khánh Lâm, BS, TS
 
 *Nghiên cứu viên sau tiến sĩ, chuyên viên phân tích thống kê*
 
@@ -19,6 +19,12 @@ Nhóm Sinh thống kê (phòng 306)
 Email: phungkhanhlam@gmail.com
 
 CV: https://lampk.github.io
+
+#### Ong Phúc Thịnh, BS
+
+Email: ongphucthinh@gmail.com
+
+#### Huỳnh Phạm Thu Hiền, BS
 
 ## Website
 
@@ -63,7 +69,7 @@ Số lượng tiểu cầu trong máu | Liên tục                | 10,000 đ�
 ...                         | ...                     | ...                           | ...
 
 2. Giai đoạn học chính thức
-    * Kéo dài trong 6 tuần (06/05 - 21/06/2019, bỏ tuần 13/05 - 17/05/2019)
+    * Kéo dài trong 4 tuần (06/05 - 07/06/2019, bỏ tuần 13/05 - 17/05/2019)
     * Lên lớp 2 buổi/tuần, mỗi buổi 2h, vào chiều thứ 4 và chiều thứ 5 (14:00 - 16:00)
     * Trước buổi học vào thứ 4
         + Sáng thứ hai mỗi tuần, học viên sẽ được nhận thông báo về một bài đọc chuẩn bị cho nội dung trong tuần.
@@ -98,12 +104,10 @@ Kết quả đánh giá sẽ được gửi lại cho bộ môn Nhiễm.
 Tuần                    | Chủ đề
 ------------------------|----------------------------------------------------------------------------------
 15/04/2019 - 26/04/2019 | Chuẩn bị
-06/05/2019 - 10/05/2019 | Tổng quan về phân tích dữ liệu - Làm sạch dữ liệu, chuẩn bị dữ liệu cho phân tích
-20/05/2019 - 24/05/2019 | Phân tích mô tả
-27/05/2019 - 31/05/2019 | Phép kiểm thống kê
-03/06/2019 - 07/06/2019 | Mô hình hồi quy tuyến tính
-10/06/2019 - 14/06/2019 | Viết báo cáo phân tích - Đọc và đánh giá kết quả phân tích
-17/06/2019 - 21/06/2019 | Lập kế hoạch phân tích - Cơ bản về thu thập số liệu
+06/05/2019 - 10/05/2019 | Tổng quan - Phân tích mô tả - Làm sạch dữ liệu, chuẩn bị dữ liệu cho phân tích
+20/05/2019 - 24/05/2019 | Phân tích so sánh: phép kiểm thống kê
+27/05/2019 - 31/05/2019 | Viết báo cáo phân tích - Đọc và đánh giá kết quả phân tích
+03/06/2019 - 07/06/2019 | Lập kế hoạch phân tích - Cơ bản về thu thập số liệu
 
 ## Nội quy khoá học
 
